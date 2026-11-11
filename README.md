@@ -77,11 +77,11 @@ Explora a participação dos países no faturamento, destacando o mercado do Rei
 
 ### Visão Geral de Vendas
 
-![Dashboard Visão Geral](imagens/dashboard-visao-geral.png)
+![Dashboard Visão Geral](assets/dashboard-visao-geral.png)
 
 ### Análise de Mercado
 
-![Dashboard Análise de Mercado](imagens/dashboard-analise-mercado.png)
+![Dashboard Análise de Mercado](assets/dashboard-analise-mercado.png)
 
 ## Estrutura do repositório
 
