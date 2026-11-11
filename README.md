@@ -83,7 +83,10 @@ Explora a participação dos países no faturamento, destacando o mercado do Rei
 
 ![Dashboard Análise de Mercado](assets/dashboard-analise-mercado.png)
 
+
 ## Estrutura do repositório
+
+```text
 analise-vendas-online-retail/
 ├── README.md
 ├── dashboard/
@@ -97,7 +100,7 @@ analise-vendas-online-retail/
 │   └── consultas.sql
 └── documentacao/
     └── metodologia.md
-
+```
 ## Próximas etapas
 
 - Desenvolver consultas SQL para aprofundar as análises.
